@@ -26,7 +26,7 @@ namespace Nycron.TopDown.Movement
         private void Update()
         {
             Vector2 move = input.Movement.Move.ReadValue<Vector2>();
-            transform.position += (Vector3)move * speedMultiplier * Time.deltaTime;
+            transform.position += (Vector3)move.normalized * speedMultiplier * Time.deltaTime;
         }
     }
 }
