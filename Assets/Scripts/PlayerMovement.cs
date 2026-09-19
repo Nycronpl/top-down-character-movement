@@ -16,15 +16,8 @@ namespace Nycron.TopDown.Movement
             body = GetComponent<Rigidbody2D>();
         }
 
-        private void OnEnable()
-        {
-            input.Enable();
-        }
-
-        private void OnDisable()
-        {
-            input.Disable();
-        }
+        private void OnEnable() => input.Enable();
+        private void OnDisable() => input.Disable();
 
         private void Update()
         {
