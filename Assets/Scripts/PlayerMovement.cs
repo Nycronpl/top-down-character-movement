@@ -33,9 +33,6 @@ namespace Nycron.TopDown.Movement
             //doesn't use tranform.position because it creates jittering when pushing against the wall
             move = input.Movement.Move.ReadValue<Vector2>();
             body.linearVelocity = move * speedMultiplier;
-            
-            if (IsPlayerMoving())
-                Debug.Log(GetPlayerDirection());
         }
 
         public DirectionFacing GetPlayerDirection()
