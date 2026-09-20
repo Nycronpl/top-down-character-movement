@@ -1,0 +1,550 @@
+fileFormatVersion: 2
+guid: 70faf02cb8541f144a7087ad7774ae97
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6791194658333699607
+    second: farm_guy_0
+  - first:
+      213: 5868763418396865022
+    second: farm_guy_1
+  - first:
+      213: 1417387785489040896
+    second: farm_guy_2
+  - first:
+      213: -5426250175654932400
+    second: farm_guy_3
+  - first:
+      213: -4966249628715374938
+    second: farm_guy_4
+  - first:
+      213: 140028276480440341
+    second: farm_guy_5
+  - first:
+      213: -8334460451352356153
+    second: farm_guy_6
+  - first:
+      213: -2795243278801291177
+    second: farm_guy_7
+  - first:
+      213: -8211749219164989243
+    second: farm_guy_8
+  - first:
+      213: 7312544092303852758
+    second: farm_guy_9
+  - first:
+      213: 3582350444278992676
+    second: farm_guy_10
+  - first:
+      213: 7564630290624220706
+    second: farm_guy_11
+  - first:
+      213: -4968401557562165524
+    second: farm_guy_12
+  - first:
+      213: -2942110875610597722
+    second: farm_guy_13
+  - first:
+      213: -9214515249038283650
+    second: farm_guy_14
+  - first:
+      213: -2081073769092338507
+    second: farm_guy_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 128
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: example_guy_front_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21e858481ef386459eb1c1a0d8cd594
+      internalID: -810990997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: example_guy_front_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 60
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c7d7dbc67409c4e9bfd7844554e8b7
+      internalID: 1911892716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: example_guy_front_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 60
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7c7ab7646ec4d4a94ffc6056ecb938
+      internalID: -678496618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: example_guy_front_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 60
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f729d70fa729b4d8c21d5945b0930c
+      internalID: 586188055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: example_guy_back_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52614414a3e73d84589da5354a034a48
+      internalID: 1103175030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: example_guy_back_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 40
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e92297dd621834aa5136506c092b1d
+      internalID: 376702520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: example_guy_back_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 40
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4503f2933fe62642adc3eacb996bbcc
+      internalID: 397507036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: example_guy_back_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 40
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb8219a5dbbc944bb9c7d837e541ca2
+      internalID: -1486323017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: example_guy_right_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 20
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3000943090f6b046ba1fee82d8d482e
+      internalID: 208384623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: example_guy_right_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 20
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d7c48a09fa92543beb4a24a752a028
+      internalID: -827206948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: example_guy_right_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 20
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86e163841e6a7448a860f850adbd039
+      internalID: 1504740938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: example_guy_right_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 20
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d95c8c1bb19ebf499883134dfe7ae9e
+      internalID: -1975139681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: example_guy_left_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f458f6f4cca07d4f880eb11efd1038d
+      internalID: 403011473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: example_guy_left_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928ff7df5a0b19e47835856643985dff
+      internalID: -952806337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: example_guy_left_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967336b5ae99a5741b93a1cfe3d861ad
+      internalID: -982597084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: example_guy_left_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec643e0ca28c234d9b281607e18b2a7
+      internalID: 1083847073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6beb66d7d7250bd49adcc6f1bec764c9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      _0: -982597084
+      example_guy_back_0: 1103175030
+      example_guy_back_1: 376702520
+      example_guy_back_2: 397507036
+      example_guy_back_3: -1486323017
+      example_guy_front_0: -810990997
+      example_guy_front_1: 1911892716
+      example_guy_front_2: -678496618
+      example_guy_front_3: 586188055
+      example_guy_left_0: 403011473
+      example_guy_left_1: -952806337
+      example_guy_left_2: -982597084
+      example_guy_left_3: 1083847073
+      example_guy_right_0: 208384623
+      example_guy_right_1: -827206948
+      example_guy_right_2: 1504740938
+      example_guy_right_3: -1975139681
+      farm_guy_0: -6791194658333699607
+      farm_guy_1: 5868763418396865022
+      farm_guy_10: 3582350444278992676
+      farm_guy_11: 7564630290624220706
+      farm_guy_12: -4968401557562165524
+      farm_guy_13: -2942110875610597722
+      farm_guy_14: -9214515249038283650
+      farm_guy_15: -2081073769092338507
+      farm_guy_2: 1417387785489040896
+      farm_guy_3: -5426250175654932400
+      farm_guy_4: -4966249628715374938
+      farm_guy_5: 140028276480440341
+      farm_guy_6: -8334460451352356153
+      farm_guy_7: -2795243278801291177
+      farm_guy_8: -8211749219164989243
+      farm_guy_9: 7312544092303852758
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
